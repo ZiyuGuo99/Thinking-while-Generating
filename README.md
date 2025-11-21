@@ -42,8 +42,6 @@ TwiG decouples generation into **Scheduling** (When to Think), **Reasoning** (Wh
 </p>
 
 
-
-
 ## 🖼️ Visualizations
 
 ### **1. Qualitative Comparison**
