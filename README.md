@@ -12,7 +12,6 @@ Official repository for the paper "[Thinking-while-Generating: Interleaving Text
 - **[2025.11.20]** The paper **“Thinking-while-Generating”** is released on arXiv. 🚀
 
 
-
 ## 💭🎨 Thinking-while-Generating (TwiG)
 
 Existing methods inject textual reasoning either **before** (pre-planning) or **after** (post-refinement) visual generation.  
@@ -81,7 +80,7 @@ Please cite us if you find this project helpful:
 ```
 
 
-## 🧠 Related Work
+## 📜 Related Work
 
 - **[ImageGen-CoT](https://github.com/ZiyuGuo99/Image-Generation-CoT)**: Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step.
 - **[T2I-R1](https://arxiv.org/pdf/2505.00703.pdf)**: T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT.
