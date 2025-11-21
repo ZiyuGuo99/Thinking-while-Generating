@@ -1,5 +1,8 @@
 
-# Thinking-while-Generating (TwiG) 💭🎨
+<h1 align="left">
+  <img src="images/logo.png" height="55" style="vertical-align: middle; margin-right: 10px;">
+  Thinking-while-Generating (TwiG) 
+</h1>
 
 Official repository for the paper "[Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/abs/2511.16671)".
 
@@ -10,7 +13,7 @@ Official repository for the paper "[Thinking-while-Generating: Interleaving Text
 
 
 
-## 👀 What is Thinking-while-Generating (TwiG)?
+## 👀 Thinking-while-Generating (TwiG)
 
 Existing methods inject textual reasoning either **before** (pre-planning) or **after** (post-refinement) visual generation.  
 **TwiG is the first framework to interleave textual reasoning *throughout* the entire visual synthesis process.**
@@ -32,11 +35,12 @@ Existing methods inject textual reasoning either **before** (pre-planning) or **
 
 ## 🚀 Framework
 
-TwiG decomposes the generation pipeline into **Scheduling**, **Reasoning**, and **Reflection**.
+TwiG decouples generation into **Scheduling** (When to Think), **Reasoning** (What to Say), and **Reflection** (How to Refine).
 
 <p align="center">
   <img src="images/pipeline.png" width="90%">
 </p>
+
 
 
 
@@ -76,3 +80,7 @@ Please cite us if you find this project helpful:
   journal={arXiv:2511.16671},
   year={2025}
 }
+
+
+## 🧠 Related Work
+  - **[ImageGen-CoT](https://github.com/ZiyuGuo99/Image-Generation-CoT)**: Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step.
