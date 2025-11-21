@@ -80,7 +80,7 @@ Please cite us if you find this project helpful:
   journal={arXiv:2511.16671},
   year={2025}
 }
-
+```
 
 ## 🧠 Related Work
   - **[ImageGen-CoT](https://github.com/ZiyuGuo99/Image-Generation-CoT)**: Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step.
