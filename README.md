@@ -80,5 +80,9 @@ Please cite us if you find this project helpful:
 }
 ```
 
+
 ## 🧠 Related Work
-  - **[ImageGen-CoT](https://github.com/ZiyuGuo99/Image-Generation-CoT)**: Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step.
+
+- **[ImageGen-CoT](https://github.com/ZiyuGuo99/Image-Generation-CoT)**: Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step.
+- **[T2I-R1](https://arxiv.org/pdf/2505.00703.pdf)**: T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT.
+- **[Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO](https://arxiv.org/pdf/2505.17017.pdf)**: A comprehensive comparison of DPO and GRPO for Reinforcement Learning in CoT-based image generation.
