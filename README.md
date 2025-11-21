@@ -13,7 +13,7 @@ Official repository for the paper "[Thinking-while-Generating: Interleaving Text
 
 
 
-## 👀 Thinking-while-Generating (TwiG)
+## 💭🎨 Thinking-while-Generating (TwiG)
 
 Existing methods inject textual reasoning either **before** (pre-planning) or **after** (post-refinement) visual generation.  
 **TwiG is the first framework to interleave textual reasoning *throughout* the entire visual synthesis process.**
