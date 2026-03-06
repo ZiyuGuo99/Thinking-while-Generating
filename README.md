@@ -41,6 +41,35 @@ TwiG decouples generation into **Scheduling** (When to Think), **Reasoning** (Wh
 </p>
 
 
+## 💪 Get Started
+### Installation
+
+Clone the repository:
+
+   ```bash
+   git clone https://github.com/ZiyuGuo99/Thinking-while-Generating.git
+   cd Thinking-while-Generating
+   ```
+
+Create a conda environment:
+
+   ```bash
+   conda create -n twig python=3.11
+   conda activate twig
+   ```
+   Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies.
+
+   Install additional dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### 📊 Evaluation              
+Run the following command:
+```
+bash twig.sh
+```
+
 ## 🖼️ Visualizations
 
 ### **1. Qualitative Comparison**
