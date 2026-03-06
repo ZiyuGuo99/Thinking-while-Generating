@@ -64,11 +64,25 @@ Create a conda environment:
    pip install -r requirements.txt
    ```
 
-### 📊 Evaluation              
-Run the following command:
+
+### 📊 Evaluation     
+
+1. Download the Janus-Pro model weights from [this link](https://huggingface.co/deepseek-ai/Janus-Pro-7B).
+
+2. Configure the model and output paths in `twig.sh`:
+
+```bash
+model_path=Janus-Pro-7B   # Local path to the pre-trained model weights
+output_folder=twig        # Subfolder name for this evaluation task
+base_output=./results     # Root directory for saving generated images and text results
 ```
+
+3. Run the following command:
+
+```bash
 bash twig.sh
 ```
+
 
 ## 🖼️ Visualizations
 
