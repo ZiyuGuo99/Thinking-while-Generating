@@ -1,7 +1,7 @@
 #!/bin/bash
 model_path=Janus-Pro-7B   # Local path to the pre-trained model weights
 output_folder=twig        # Subfolder name for this specific evaluation task
-base_output=./results     # Root directory to save all generated images and text results
+base_output=/path/to/your/project/results     # Root directory to save all generated images and text results
 file_name=twig.py         # The evaluation script to execute
 
 n=8                       # Number of concurrent GPUs
